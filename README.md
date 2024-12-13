@@ -45,7 +45,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=miyunitharushika&theme=dark&show_icons=true&count_private=true" />
   <br></br>
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=miyunitharushika&theme=dark&date_format=j%20M%5B%20Y%5D" />  
+ 
 </td>
 <td width="50%" align="center">
 
